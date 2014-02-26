@@ -1,4 +1,0 @@
-Tractor
-=======
-
-RPI RCOS project
